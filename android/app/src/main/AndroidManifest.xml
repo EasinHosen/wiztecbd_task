@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.wiztecbd_task">
    <application
-        android:label="wiztecbd_task"
+        android:label="Wiztecbd Task(Easin Md. Hosen)"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
